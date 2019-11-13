@@ -48,7 +48,7 @@ https://blog.pcrisk.com/windows/12944-how-to-change-mac-address
 <h3>HOW TO SETUP THE SCRIPT</h3>
 
 
-<h3>HOW TO CONTRIBUTE?</h3>
+<h3>HOW TO CONTRIBUTE</h3>
 
 any advice, fork, like, request, or criticism is welcome!
 If you think you can optimize the code I am happy to hear any advice or idea ...
