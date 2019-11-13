@@ -12,7 +12,7 @@ I needed a Mac spoofer for windows that would work on all systems, even older on
 I tried many freeware, and I looked at a lot of codes on github and in the net ...
 Many didn't work anymore, because they were dated and maybe the library wasn't there anymore, others they required rebooting the PC to work, or others just didn't work ...
 So the need to use the only code that would allow me to use this scripts on all machines and quickly: DOS.
-Obviously this old language has many limitations, but it was fun to play with, and thanks to the limitations you have to use more fantsia, and make writing the code more fun ...
+Obviously this old language has many limitations, but it was fun to play with, and thanks to the limitations you have to use more fantasy, and make writing the code more fun ...
 
 I inserted some small functions, designed a simple menu and the game was done ...
 To change the mac the program requires administrative permissions, but for high functions a normal cmd is enough.
@@ -75,8 +75,8 @@ The simply click MAC_Donalds.bat or download and start on terminal with git
 
 <h3>HOW TO CONTRIBUTE</h3>
 
-any advice, fork, like, request, or criticism is welcome!
-If you think you can optimize the code,
+any advice, fork, like, request, or criticism is welcome!</br>
+If you think you can optimize the code,</br>
 I am happy to hear any advice or idea ...
 
 </BR>
