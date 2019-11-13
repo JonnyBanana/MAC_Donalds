@@ -35,6 +35,19 @@ https://blog.pcrisk.com/windows/12944-how-to-change-mac-address
 
 -VENDOR LIST (a list with hundreds of vendors numbers a.k.a. the first 6 digits of a MAC adress)
 
+<h2>REQUIREMENTS</h2>
+
+-none!
+
+<h2>COMPATIBILITY</h2>
+
+Windows 2000 (98 maybe... but i dont give a fuck....) to Windows 10
+See compatibility-os.txt in "infos" folder.
+
+<h2>HOW TO SETUP THE SCRIPT</h2>
+
+
+
 </BR>
 
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/MAC_Donalds/master/IMG/Cheezzburger.PNG)
