@@ -25,7 +25,7 @@ https://stackoverflow.com/questions/8753043/how-to-change-mac-address-with-batch
 https://blog.pcrisk.com/windows/12944-how-to-change-mac-address
 
 
-<h2>FEATURES</h2>
+<h3>FEATURES</h3>
 
 -MAC LIST (MAC address lists of 15 different vendors, each file contains 10000 fake MACs)
 
