@@ -6,6 +6,6 @@ A simple and Retrocompatible MAC Spoofer for Windows.
 
 </BR>
 
-![Alt text](https://gfycat.com/blackdeadarawana)
+![Alt text](https://thumbs.gfycat.com/BlackDeadArawana.webp)
 
 
