@@ -8,6 +8,22 @@ A simple and Retrocompatible MAC Spoofer for Windows.
 
 <h2>MAC DONALDS</h2>
 
+I needed a Mac spoofer for windows that would work on all systems, even older ones, and without having to install third-party software, python or various libraries.
+I tried many freeware, and I looked at a lot of codes on github and in the net ...
+Many didn't work anymore, because they were dated and maybe the library wasn't there anymore or others just didn't work ...
+So the need to use the only code that would allow me to use this scripts on all machines and quickly: DOS.
+Obviously this old language has many limitations, but it was fun to play with, and thanks to the limitations you have to use more fantsia, and make writing the code more fun ...
+
+I inserted some small functions, designed a simple menu and the game was done ...
+To change the mac the program requires administrative permissions, but for high functions a normal cmd is enough.
+I entered thousands of fake MAC adresses and a list with hundreds of vendors to create your own fake MACs.
+
+These articles helped me to create this simple algorithm:
+
+https://stackoverflow.com/questions/8753043/how-to-change-mac-address-with-batch-file-on-windows-7
+
+https://blog.pcrisk.com/windows/12944-how-to-change-mac-address
+
 
 <h2>FEATURES</h2>
 
