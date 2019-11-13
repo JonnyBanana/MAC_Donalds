@@ -6,6 +6,6 @@ A simple and Retrocompatible MAC Spoofer for Windows.
 
 </BR>
 
-![Alt text](https://thumbs.gfycat.com/BlackDeadArawana.webp)
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/MAC_Donalds/master/IMG/Cheezzburger.PNG)
 
 
