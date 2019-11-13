@@ -45,6 +45,14 @@ https://blog.pcrisk.com/windows/12944-how-to-change-mac-address
 
 -Windows 2000 (98 maybe... but i dont give a fuck....) to Windows 10
 
+<h3>DOWNLOAD WITH GIT</h3>
+
+-git clone https://github.com/JonnyBanana/MAC_Donalds
+
+-cd MAC_Donalds
+
+-start MAC_Donalds.bat (or simply MAC_Donalds.bat)
+
 <h3>HOW TO SETUP THE SCRIPT</h3>
 
 
