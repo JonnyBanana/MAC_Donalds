@@ -16,7 +16,7 @@ Obviously this old language has many limitations, but it was fun to play with, a
 
 I inserted some small functions, designed a simple menu and the game was done ...
 To change the mac the program requires administrative permissions, but for high functions a normal cmd is enough.
-I entered thousands of fake MAC adresses and a list with hundreds of vendors to create your own fake MACs.
+I entered thousands of fake MAC adresses and a list with hundreds of vendors to create your own fake MAC.
 
 These articles helped me to create this simple algorithm:
 
