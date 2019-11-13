@@ -37,7 +37,7 @@ https://blog.pcrisk.com/windows/12944-how-to-change-mac-address
 
 -VENDOR LIST (a list with hundreds of vendors numbers a.k.a. the first 6 digits of a MAC adress)
 
-<h2>REQUIREMENTS</h2>
+<h3>REQUIREMENTS</h3>
 
 -none!
 
