@@ -18,6 +18,8 @@ I inserted some small functions, designed a simple menu and the game was done ..
 To change the mac the program requires administrative permissions, but for high functions a normal cmd is enough.
 I entered thousands of fake MAC adresses and a list with hundreds of vendors to create your own fake MAC.
 
+I only used vendors that start with 02 for maximum compatibility, as you can read in the article below on stackoverflow
+
 These articles helped me to create this simple algorithm:
 
 https://stackoverflow.com/questions/8753043/how-to-change-mac-address-with-batch-file-on-windows-7
@@ -39,14 +41,17 @@ https://blog.pcrisk.com/windows/12944-how-to-change-mac-address
 
 -none!
 
-<h2>COMPATIBILITY</h2>
+<h3>COMPATIBILITY</h3>
 
-Windows 2000 (98 maybe... but i dont give a fuck....) to Windows 10
-See compatibility-os.txt in "infos" folder.
+-Windows 2000 (98 maybe... but i dont give a fuck....) to Windows 10
 
-<h2>HOW TO SETUP THE SCRIPT</h2>
+<h3>HOW TO SETUP THE SCRIPT</h3>
 
 
+<h3>HOW TO CONTRIBUTE?</h3>
+
+any advice, fork, like, request, or criticism is welcome!
+If you think you can optimize the code I am happy to hear any advice or idea ...
 
 </BR>
 
