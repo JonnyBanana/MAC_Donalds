@@ -84,3 +84,9 @@ I am happy to hear any advice or idea ...
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/MAC_Donalds/master/IMG/Cheezzburger.PNG)
 
 </BR>
+
+The program is Under Construction and at the moment it has a couple of limitations that require </br>
+a short settings to make it work (all explained in detail in the download link).</br>
+Soon the script will be added to perform the network recognition action automatically 
+(without having to change the network name), in the meantime you can try the alpha version, which still works perfectly).</br>
+A PRO version of the program will soon be available, for a few euros, which will contain several interesting features...</br>
