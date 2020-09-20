@@ -90,3 +90,11 @@ a short settings to make it work (all explained in detail in the download link).
 Soon the script will be added to perform the network recognition action automatically 
 (without having to change the network name), in the meantime you can try the alpha version, which still works perfectly).</br>
 A PRO version of the program will soon be available, for a few euros, which will contain several interesting features...</br>
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
+
