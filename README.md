@@ -56,7 +56,7 @@ as seen in the photo below
 
 -line 37 e 43 (FUCK) must be change with your network name
 
--line 42 the complete path of the registry key you nedd to change the MAC adress
+-line 42 the complete path of the registry key you need to change the MAC adress
 
 full explanation here:
 
